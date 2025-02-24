@@ -29,7 +29,7 @@ const Navbar = () => {
             <a href="#" className="hover:text-blue-400 transition-colors">Personal Loan</a>
             <a href="#" className="hover:text-blue-400 transition-colors">Business Loan</a>
             <a href="#" className="hover:text-blue-400 transition-colors">Home Loan</a>
-            <a href="tel:1800-123-4567" className="flex items-center hover:text-blue-400 transition-colors">
+            <a href="tel:+91 704-977-6747" className="flex items-center hover:text-blue-400 transition-colors">
               <Phone className="h-4 w-4 mr-2" />
               <span>+91 704-977-6747</span> 
             </a>
